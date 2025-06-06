@@ -1,0 +1,11 @@
+recipe_id,user_id,recipe_name,ingredients,rating
+R001,U001,Spaghetti Bolognese,"spaghetti, ground beef, tomato, garlic, onion",5
+R002,U001,Garlic Bread,"bread, garlic, butter, parsley",4
+R003,U002,Chicken Curry,"chicken, curry powder, tomato, garlic, onion",5
+R004,U003,Veggie Pasta,"pasta, bell pepper, tomato, onion, olive oil",4
+R005,U002,Tomato Soup,"tomato, garlic, onion, cream",3
+R006,U003,Grilled Cheese,"bread, cheese, butter",4
+R007,U001,Chicken Sandwich,"bread, chicken, lettuce, mayo",5
+R008,U004,Paneer Butter Masala,"paneer, butter, tomato, garlic, cream",5
+R009,U002,Aloo Paratha,"potato, wheat flour, butter, coriander",4
+R010,U004,Veg Biryani,"rice, mixed vegetables, saffron, onion, spices",5
